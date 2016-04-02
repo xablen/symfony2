@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\symfony2\app/config/routing_dev.yml'
